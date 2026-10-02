@@ -33,20 +33,9 @@ $ ls focus/
 ai-agents/  genai/  rag/  mlops/  predictive-analytics/  research/
 ```
 
-## Currently working on
+## Currently learning
 
-- **CentaurDrug** — AI medicinal chemistry copilot using ADMET prediction, RDKit, LangGraph, Gemini, FastAPI, Docker, Kubernetes, DVC, and MLflow.
-- Improving my skills in LLM agents, RAG systems, model deployment, and production-oriented ML pipelines.
-
-## Projects
-
-| Project | Area |
-| --- | --- |
-| [CentaurDrug](https://github.com/ALIAQIL/CentaurDrug) | AI drug optimization · ADMET · MLOps |
-| Intelligent Product Recommender | RAG · vector databases · GenAI |
-| Audio Emotion Recognition | audio ML · feature engineering |
-| Autonomous Robotic Arm Sorting | robotics · computer vision · control |
-| Industrial IT Incident Management Platform | FastAPI · React · PostgreSQL · applied ML |
+LLM agents · RAG systems · model deployment · production-oriented ML pipelines
 
 ## Technical stack
 
