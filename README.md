@@ -3,14 +3,12 @@
 # `ALIAQIL@github`
 
 ```text
-              /\_/\\        ┌────────────────────────────────────┐
-             ( o.o )        │  USER    : Ali Aqil                  │
-              > ^ <         │  ROLE    : AI/ML Engineering Student │
-                            │  SCHOOL  : ENSIAS                   │
-                            │  LOCATION: Rabat, Morocco            │
-                            │  FOCUS   : AI · MLOps · Agents      │
-                            │  STATUS  : building & learning      │
-                            └────────────────────────────────────┘
+              █████   █████        ┌──────────────────────────────┐
+             ██   ██ ██   ██       │  USER    : Ali Aqil          │
+             ███████ ███████       │  ROLE    : AI/ML Student      │
+             ██   ██ ██   ██       │  SCHOOL  : ENSIAS            │
+             ██   ██ ██   ██       │  FOCUS   : AI · MLOps · Agents│
+                                   └──────────────────────────────┘
 ```
 
 **Applied AI · intelligent agents · predictive analytics · MLOps**
