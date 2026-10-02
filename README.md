@@ -1,0 +1,79 @@
+<div align="center">
+
+# `ALIAQIL@github`
+
+```text
+              /\_/\\        ┌────────────────────────────────────┐
+             ( o.o )        │  USER    : Ali Aqil                  │
+              > ^ <         │  ROLE    : AI/ML Engineering Student │
+                            │  SCHOOL  : ENSIAS                   │
+                            │  LOCATION: Rabat, Morocco            │
+                            │  FOCUS   : AI · MLOps · Agents      │
+                            │  STATUS  : building & learning      │
+                            └────────────────────────────────────┘
+```
+
+**Applied AI · intelligent agents · predictive analytics · MLOps**
+
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/ALIAQIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white)](mailto:e7199831@gmail.com)
+
+</div>
+
+```console
+$ whoami
+Ali Aqil — AI & Machine Learning Engineering Student at ENSIAS
+
+$ cat mission.txt
+Building reliable AI systems that connect models to real products:
+APIs, data pipelines, evaluation, automation, and user-facing interfaces.
+
+$ ls focus/
+ai-agents/  genai/  rag/  mlops/  predictive-analytics/  research/
+```
+
+## Currently working on
+
+- **CentaurDrug** — AI medicinal chemistry copilot using ADMET prediction, RDKit, LangGraph, Gemini, FastAPI, Docker, Kubernetes, DVC, and MLflow.
+- Improving my skills in LLM agents, RAG systems, model deployment, and production-oriented ML pipelines.
+
+## Projects
+
+| Project | Area |
+| --- | --- |
+| [CentaurDrug](https://github.com/ALIAQIL/CentaurDrug) | AI drug optimization · ADMET · MLOps |
+| Intelligent Product Recommender | RAG · vector databases · GenAI |
+| Audio Emotion Recognition | audio ML · feature engineering |
+| Autonomous Robotic Arm Sorting | robotics · computer vision · control |
+| Industrial IT Incident Management Platform | FastAPI · React · PostgreSQL · applied ML |
+
+## Technical stack
+
+`Python` `JavaScript` `C` `R` `SQL` · `PyTorch` `scikit-learn` `XGBoost` `LangChain` `LangGraph` `OpenCV` · `FastAPI` `Django` `React` `PostgreSQL` `MySQL` · `Docker` `Kubernetes` `MLflow` `DVC` `Airflow` `Linux`
+
+## Education
+
+**ENSIAS** — Engineering Degree in Computer Science & Artificial Intelligence · 2024–2027
+
+**CPGE Ibn Abdoune** — Mathematics & Physics · 2022–2024
+
+## Achievements
+
+- 3rd place — **IA & Villes Résilientes 2030** hackathon, Palm ID biometric verification system.
+- NVIDIA certification — **Rapid Application Development with Large Language Models**.
+- NVIDIA certification — **Building RAG Agents with LLMs**.
+
+## Interests
+
+Evaluated and deployable ML systems · LLM agents · RAG · predictive analytics · computer vision · robotics · research reproduction · CI/CD
+
+## Languages
+
+Arabic (native) · English (fluent) · French (advanced)
+
+<div align="center">
+
+### `echo "turning research into usable software"`
+
+</div>
